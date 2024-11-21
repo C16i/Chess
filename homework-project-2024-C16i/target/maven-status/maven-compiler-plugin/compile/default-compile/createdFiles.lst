@@ -1,0 +1,9 @@
+Chess\controller\Position.class
+Chess\controller\ChessModel.class
+Chess\controller\ChessController.class
+Chess\controller\ChessMoveSelector.class
+Chess\controller\Move.class
+Chess\controller\Square.class
+Chess\view\ChessApplication.class
+Chess\view\Main.class
+Chess\view\Bfs.class
